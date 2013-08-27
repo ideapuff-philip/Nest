@@ -205,6 +205,42 @@ button.button_white:hover {
 }
 button.button_white:hover span span { border: none; color: #fff;}
 
+button.button_black { 
+    height:42px;
+    -webkit-box-shadow:1px 1px 5px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow:1px 1px 5px 0px rgba(0, 0, 0, 0.15);
+    box-shadow:1px 1px 5px 0px rgba(0, 0, 0, 0.15);
+    background: none repeat scroll 0 0 #fff;
+    border: 4px solid #000;
+    height: auto;
+    padding: 2px;
+}
+button.button_black span{
+    background: #000 !important;
+    border: 3px solid #000;
+    height: 35px;
+}
+button.button_black:hover span{
+    background: #ffffff !important; /* Old browsers */
+    background: -moz-linear-gradient(top,  #ffffff 1%, #f2f2f2 100%) !important; /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#ffffff), color-stop(100%,#f2f2f2)) !important; /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #ffffff 1%,#f2f2f2 100%) !important; /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #ffffff 1%,#f2f2f2 100%) !important; /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #ffffff 1%,#f2f2f2 100%) !important; /* IE10+ */
+    background: linear-gradient(to bottom,  #ffffff 1%,#f2f2f2 100%) !important; /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f2f2f2',GradientType=0 ) !important; /* IE6-9 */
+    border: 3px solid #000;
+}
+button.button_black span span { padding:0 37px; color:#fff; font-weight: bold; text-transform: uppercase; line-height: 35px;}
+button.button_black:hover {
+    padding:0px 0 0 0px;-webkit-box-shadow:none; -moz-box-shadow:none; box-shadow:none;
+    background: none repeat scroll 0 0 #fff;
+    border: 4px solid #000;
+    height: auto;
+    padding: 2px;
+}
+button.button_black:hover span span { border: none; color: #000;}
+
 .btn-remove, .btn-edit {display:block; width:15px; height:15px; background-color:#97d2c9; -webkit-border-radius: 100%; -moz-border-radius: 100%; border-radius: 100%; }
 .btn-remove:hover, .btn-edit:hover {background-color:#393431}
 .btn-edit { background-image:url(../images/btn_edit.png);}
@@ -214,7 +250,7 @@ h1, h2, h3 { color:#000; color:rgba(0,0,0,0.75); letter-spacing:-0.1em; font-wei
 
 .page-404 {}
 .std dl dt{ color:#4c4c4c;}
-.std h1, .std h2, .std h3, .std h4 {font-size:24px; font-family:"Myriad Pro",serif; font-weight:400; text-transform:uppercase;}
+.std h1, .std h2, .std h3, .std h4 {font-size:24px; font-family:"Myriad Pro",serif; font-weight:400; text-transform: capitalize;}
 .std h2 {font-size:24px;}
 .std h3, .std h3 {font-size:18px;}
 .std ul.disc {list-style: none; margin:10px 0;}
@@ -263,7 +299,7 @@ p.required { font-size: 12px; text-align: left; }
 
 /* Base Columns */
 .col-left { float:left; width:300px; border:none; padding:120px 0 0; margin:0; }
-.col-main, .col-main-left, .col-main-right { float:left; width:870px; border:none; padding:30px 15px 0; margin:0; min-height:400px; }
+.col-main, .col-main-left, .col-main-right { float:left; width:870px; border:none; padding:30px 15px 0; margin:0; min-height:350px; }
 .col-right { float:right; width:300px; border:none; padding:120px 0 0; margin:0; }
 
 /* 1 Column Layout */
@@ -759,7 +795,7 @@ div.alert button:hover{ cursor:pointer; background-position:0 -9px;}
 .homepage-banners a.text-right .content{right:11px; }
 .homepage-banners a.text-center .content{right:11px; left:11px}
 
-.category-products {margin:0 0 50px;}
+.category-products {margin:0 0 30px;}
 .category-products h2 {margin:0 0 30px 15px;}
 
 .home-main {width:900px; float:left; margin:30px 0 0;}
@@ -873,11 +909,12 @@ div.alert button:hover{ cursor:pointer; background-position:0 -9px;}
 
 .products-grid.last { border-bottom:0; }
 .products-grid li.item { float:left; width:252px; padding:0; margin:0 15px 30px; position:relative; background:#fff; border:9px solid #fff; border-radius:3px; -webkit-border-radius:3px; -moz-border-radius:3px;
-    -webkit-box-shadow:0px 0px 6px 0px rgba(0, 0, 0, 0.15);
+/*    -webkit-box-shadow:0px 0px 6px 0px rgba(0, 0, 0, 0.15);
     -moz-box-shadow:0px 0px 6px 0px rgba(0, 0, 0, 0.15);
-    box-shadow:0px 0px 6px 0px rgba(0, 0, 0, 0.15);}
+    box-shadow:0px 0px 6px 0px rgba(0, 0, 0, 0.15);*/
+}
 .products-grid li.item a:hover {text-decoration:none; }
-.products-grid h3{ font-size:24px; font-family:"Myriad Pro",serif; font-weight:300; color:#000; color:rgba(0,0,0,0.67); letter-spacing:-1px; margin:27px 0 26px 2px; text-align:center; }
+.products-grid h3{ font-size:23px; font-family:"Myriad Pro",serif; font-weight:300; color:#000; color:rgba(0,0,0,0.67); letter-spacing:-1px; margin:20px 0 5px 2px; text-align:center; }
 .products-grid .button-container {float:right; margin-left:5px; }
 .products-grid .button-container button.button span {width:35px; height:35px; border-radius:100%; -webkit-border-radius:100%; -moz-border-radius:100%; text-indent:-9999px;}
 .products-grid .button-container button.button span span {padding:0; background:url('../images/icon_cart_listing.png') 50% 50% no-repeat; }
