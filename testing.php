@@ -1,70 +1,26 @@
-<div class="category-products">
-    <h2></h2>
-    <ul class="products-grid one_column_5">
-        <li class="item">
-            <h3>Scented Candles</h3>
-            <div class="regular">
-                <a href=""><img src="{{media url="wysiwyg/scented-candles.jpg"}}" alt="" /></a>
-            </div>
-            <div style="text-align: center;">
-                <button class="button button_black" onclick="window.location = '{{store url=""}}'">
-                    <span>
-                        <span>Shop now</span>
-                    </span>
-                </button>
-            </div>
-        </li>
-        <li class="item">
-            <h3>Reed Diffusers</h3>
-            <div class="regular">
-                <a href=""><img src="{{media url="wysiwyg/reed-diffusers.jpg"}}" alt="" /></a>
-            </div>
-            <div style="text-align: center;">
-                <button class="button button_black" onclick="window.location = '{{store url=""}}'">
-                    <span>
-                        <span>Shop now</span>
-                    </span>
-                </button>
-            </div>
-        </li>
-        <li class="item ">
-            <h3>Bath &amp; Body</h3>
-            <div class="regular">
-                <a href=""><img src="{{media url="wysiwyg/bath-body.jpg"}}" alt="" /></a>
-            </div>
-            <div style="text-align: center;">
-                <button class="button button_black" onclick="window.location = '{{store url=""}}'">
-                    <span>
-                        <span>Shop now</span>
-                    </span>
-                </button>
-            </div>
-        </li>
-        <li class="item ">
-            <h3>Fine Fragrances</h3>
-            <div class="regular">
-                <a href=""><img src="{{media url="wysiwyg/fine-fragrances.jpg"}}" alt="" /></a>
-            </div>
-            <div style="text-align: center;">
-                <button class="button button_black" onclick="window.location = '{{store url=""}}'">
-                    <span>
-                        <span>Shop now</span>
-                    </span>
-                </button>
-            </div>
-        </li>
-        <li class="item ">
-            <h3>Gift Sets</h3>
-            <div class="regular">
-                <a href=""><img src="{{media url="wysiwyg/gift-sets.jpg"}}" alt="" /></a>
-            </div>
-            <div style="text-align: center;">
-                <button class="button button_black" onclick="window.location = '{{store url=""}}'">
-                    <span>
-                        <span>Shop now</span>
-                    </span>
-                </button>
-            </div>
-        </li>
+<h4>Quick Links</h4>
+<div class="block-content">
+    <ul class="quickLinks">
+        <li><a href="{{store url=''}}">About NEST</a></li>
+        <li><a href="{{store url=''}}">In the Press</a></li>
+        <li><a href="{{store url=''}}">Contact Us</a></li>
+        <li><a href="{{store url=''}}">Shipping &amp; Returns</a></li>
+        <li class='last'><a href="{{store url=''}}">Terms &amp; Conditions</a></li>
+
     </ul>
+</div>
+
+
+<h4>Connect</h4>
+<div class="block-content">
+    <ul class="social">
+        <li><a class="twitter" href="http://twitter.com/" target="social"><span>Twitter</span></a></li>
+        <li><a class="facebook" href="http://facebook.com/" target="social"><span>Facebook</span></a></li>
+        <li><a class="instagram" href=""><span>Instagram</span></a></li>
+        <li><a class="email" href="mailto:" target="social"><span>Email</span></a></li>
+    </ul>
+</div>
+<h4>Facebook</h4>
+<div class="block-content">
+    
 </div>

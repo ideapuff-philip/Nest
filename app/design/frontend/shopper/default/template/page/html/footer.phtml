@@ -100,12 +100,13 @@ $action = Mage::app()->getFrontController()->getRequest()->getActionName();
             } ?>
             </div>
             <div class="grid_3 information">
-	            <?php $cms_block = Mage::getModel('cms/block')
-		            ->setStoreId( Mage::app()->getStore()->getId() )
-		            ->load('shopper_footer_information');
-	            if($cms_block->getIsActive()) {
-		            echo $this->getLayout()->createBlock('cms/block')->setBlockId('shopper_footer_information')->toHtml();
-	            }
+	            <?php 
+//                    $cms_block = Mage::getModel('cms/block')
+//		            ->setStoreId( Mage::app()->getStore()->getId() )
+//		            ->load('shopper_footer_information');
+//	            if($cms_block->getIsActive()) {
+//		            echo $this->getLayout()->createBlock('cms/block')->setBlockId('shopper_footer_information')->toHtml();
+//	            }
 	            ?>
             </div>
             <div class="grid_3">
@@ -123,7 +124,7 @@ $action = Mage::app()->getFrontController()->getRequest()->getActionName();
     <?php endif; // ( !($route == 'customer' && $action == 'login') ) : ?>
     <footer class="row clearfix">
         <div class="grid_6">
-            <address><?php echo $this->getCopyright(); ?></address>
+            <address><?php //echo $this->getCopyright(); ?></address>
         </div>
         <div class="grid_6">
             <?php echo $this->getChildHtml('shopper_footer_links'); ?>
