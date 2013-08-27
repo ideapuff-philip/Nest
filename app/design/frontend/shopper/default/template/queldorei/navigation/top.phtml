@@ -14,32 +14,79 @@
  */
 ?>
 <!-- navigation BOF -->
-<?php $_menu = $this->renderCategoriesMenuHtml(0, 'level-top', 'sub-wrapper' ) ?>
-<?php if($_menu): ?>
-<div class="nav-container">
-    <div class="nav-top-title"><div class="icon"><span></span><span></span><span></span></div><a href="#"><?php echo $this->__('Navigation'); ?></a></div>
-    <ul id="queldoreiNav">
-	    <?php if (Mage::getStoreConfig('shoppersettings/navigation/home')): ?>
-         <li class="level0 level-top">
-         	<a href="<?php echo $this->getBaseUrl(); ?>"><span><?php echo $this->__('Home'); ?></span></a>
-         </li>
-     <?php endif; ?>
-        <?php
-        echo $_menu;
-        $custom_tab = Mage::getModel('cms/block')
-	        ->setStoreId( Mage::app()->getStore()->getId() )
-	        ->load('shopper_navigation_block');
-        if($custom_tab->getIsActive()) {
-            echo '
+<?php $_menu = $this->renderCategoriesMenuHtml(0, 'level-top', 'sub-wrapper') ?>
+<?php if ($_menu): ?>
+    <div class="nav-container">
+        <div class="nav-top-title"><div class="icon"><span></span><span></span><span></span></div><a href="#"><?php echo $this->__('Navigation'); ?></a></div>
+        <ul id="queldoreiNav">
+            <?php if (Mage::getStoreConfig('shoppersettings/navigation/home')): ?>
+                <li class="level0 level-top">
+                    <a href="<?php echo $this->getBaseUrl(); ?>"><span><?php echo $this->__('Home'); ?></span></a>
+                </li>
+            <?php endif; ?>
+            <?php
+            $whatnew_tab = Mage::getModel('cms/block')
+                    ->setStoreId(Mage::app()->getStore()->getId())
+                    ->load('shopper_navigation_what_new_block');
+            if ($whatnew_tab->getIsActive()) {
+                echo '
+            <li class="level0 level-top parent">
+                <a href="#" class="level-top">
+                    <span>' . $whatnew_tab->getTitle() . '</span>
+                </a>
+                <div class="sub-wrapper">' . $this->getLayout()->createBlock('cms/block')->setBlockId('shopper_navigation_what_new_block')->toHtml() . '</div>
+            </li>';
+            }
+            $shop_tab = Mage::getModel('cms/block')
+                    ->setStoreId(Mage::app()->getStore()->getId())
+                    ->load('shopper_navigation_shop_block');
+            if ($shop_tab->getIsActive()) {
+                echo '
             <li class="level0 level-top parent custom-block">
                 <a href="#" class="level-top">
-                    <span>'.$custom_tab->getTitle().'</span>
+                    <span>' . $shop_tab->getTitle() . '</span>
                 </a>
-                <div class="sub-wrapper" style="width:'.Mage::getStoreConfig('shoppersettings/navigation/custom_block_width').'px">'.$this->getLayout()->createBlock('cms/block')->setBlockId('shopper_navigation_block')->toHtml().'</div>
+                <div class="sub-wrapper" style="width:650px;">' . $this->getLayout()->createBlock('cms/block')->setBlockId('shopper_navigation_shop_block')->toHtml() . '</div>
             </li>';
-        }
-        ?>
-    </ul>
-</div>
+            }
+            ?>
+                <li class="level0 level-top">
+                    <a href=""><span>Find your scent</span></a>
+                </li>
+            <?php
+            $about_tab = Mage::getModel('cms/block')
+                    ->setStoreId(Mage::app()->getStore()->getId())
+                    ->load('shopper_navigation_about_block');
+            if ($about_tab->getIsActive()) {
+                echo '
+            <li class="level0 level-top parent custom-block">
+                <a href="#" class="level-top">
+                    <span>' . $about_tab->getTitle() . '</span>
+                </a>
+                <div class="sub-wrapper" style="width:650px;">' . $this->getLayout()->createBlock('cms/block')->setBlockId('shopper_navigation_about_block')->toHtml() . '</div>
+            </li>';
+            }
+            
+            echo $_menu;
+            
+            $custom_tab = Mage::getModel('cms/block')
+                    ->setStoreId(Mage::app()->getStore()->getId())
+                    ->load('shopper_navigation_block');
+            if ($custom_tab->getIsActive()) {
+                echo '
+            <li class="level0 level-top parent custom-block">
+                <a href="#" class="level-top">
+                    <span>' . $custom_tab->getTitle() . '</span>
+                </a>
+                <div class="sub-wrapper" style="width:' . Mage::getStoreConfig('shoppersettings/navigation/custom_block_width') . 'px">' . $this->getLayout()->createBlock('cms/block')->setBlockId('shopper_navigation_block')->toHtml() . '</div>
+            </li>';
+            }
+            
+            ?>
+                <li class="level0 level-top">
+                    <a href=""><span>Store Locator</span></a>
+                </li>
+        </ul>
+    </div>
 <?php endif ?>
 <!-- navigation EOF -->

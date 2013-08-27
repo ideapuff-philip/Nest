@@ -536,7 +536,7 @@ jQuery(function($){
                 $('.slider').animate({paddingBottom: '52px'}, 200);
             }
             if ( $('.col-main .home-right').length ) {
-                $('.slider').animate({paddingBottom: '20px'}, 200);
+                $('.slider').animate({paddingBottom: '0px'}, 200);
             }
 
             $flexslider.flexslider(vars);

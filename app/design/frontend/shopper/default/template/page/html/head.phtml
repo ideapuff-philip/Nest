@@ -61,7 +61,8 @@ $config_slideshow = Mage::getStoreConfig('shopperslideshow', Mage::app()->getSto
     <link href='//fonts.googleapis.com/css?family=<?php echo str_replace(' ', '+', $config['price_font']); ?>:300,400,700' rel='stylesheet' type='text/css'>
     <?php endif; ?>
 <?php endif; ?>
-<link href='<?php echo Mage::getBaseUrl(Mage_Core_Model_Store::URL_TYPE_WEB, Mage::app()->getFrontController()->getRequest()->isSecure()) . 'options.css.php'; echo '?store='.Mage::app()->getStore()->getCode();  if ($cat = Mage::registry('current_category')) { echo '&cat='.$cat->getId(); }  ?>' rel='stylesheet' type='text/css'>
+<!--<link href='<?php echo Mage::getBaseUrl(Mage_Core_Model_Store::URL_TYPE_WEB, Mage::app()->getFrontController()->getRequest()->isSecure()) . 'options.css.php'; echo '?store='.Mage::app()->getStore()->getCode();  if ($cat = Mage::registry('current_category')) { echo '&cat='.$cat->getId(); }  ?>' rel='stylesheet' type='text/css'>-->
+    <link href='<link href='<?php echo $this->getUrl('options.css.php'); echo '?store='.Mage::app()->getStore()->getCode();  if ($cat = Mage::registry('current_category')) { echo '&cat='.$cat->getId(); }  ?>' rel='stylesheet' type='text/css'>
 <?php echo $this->getChildHtml() ?>
 <?php echo $this->helper('core/js')->getTranslatorScript() ?>
 <?php echo $this->getIncludes() ?>
