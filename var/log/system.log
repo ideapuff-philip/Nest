@@ -302,3 +302,307 @@
 [5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
 [6] /Applications/MAMP/htdocs/nest/index.php:87
 </pre>
+2013-08-28T00:14:07+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:07+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:07+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:07+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:09+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:09+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:09+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:09+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:09+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:09+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:09+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
+2013-08-28T00:14:09+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Applications/MAMP/htdocs/Nest/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Applications/MAMP/htdocs/Nest/app/code/core/Mage/Core/Model/App.php:354
+[5] /Applications/MAMP/htdocs/Nest/app/Mage.php:683
+[6] /Applications/MAMP/htdocs/nest/index.php:87
+</pre>
